@@ -1,7 +1,7 @@
 # FUTURE_CS_01
 Vulnerability Assessment Report for http://testphp.vulnweb.com/
 This report contains a Vulnerability Assessment for the website:http://testphp.vulnweb.com/ The website is an intentionally vulnerable environment created for cybersecurity learning and practice.
-# Objective-The goal of this report was to:
+# Objective-The goal of this task was to:
 - Learn penetration testing basics
 - Identify security vulnerabilities
 - Understand how attacks work
